@@ -3,11 +3,11 @@
 # 🌱 I’m currently learning NodeJS and ReactJS
 # 📫 How to reach me 
 
-[Instagram](www.instagram.com.br/victorh5900/)
+[Instagram](https://www.instagram.com.br/victorh5900/)
 
-[LinkedIn](linkedin.com/in/victorh5)
+[LinkedIn](https://linkedin.com/in/victorh5)
 
-[Twitter](twitter.com/victorh5900)
+[Twitter](https://twitter.com/victorh5900)
 
 <!---
 victorh5/victorh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
