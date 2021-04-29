@@ -3,7 +3,7 @@
 # 🌱 I’m currently learning NodeJS and ReactJS
 # 📫 How to reach me 
 
-[Instagram](https://www/instagram.com.br/victorh5900/)
+[Instagram](https://www.instagram.com.br/victorh5900/)
 
 [LinkedIn](linkedin.com/in/victorh5)
 
