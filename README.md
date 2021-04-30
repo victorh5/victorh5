@@ -28,7 +28,7 @@
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 👨‍💻 Setup
+## 👨‍💻 SETUP
 
 <p align='center'>
   💻 Meu Setup<br/><br/>
