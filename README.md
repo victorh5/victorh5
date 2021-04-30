@@ -40,10 +40,7 @@
 
 ## ⚡ Estatísticas GitHub
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=victorh5&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorh5&hide=TeX&layout=compact" />
-</p>
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorh5&theme=radical&show_icons=true)
 
 <!---
 victorh5/victorh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
