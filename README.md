@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu GitHub!
 
-- 🎓 Cursando Engenharia de Computação, atualmente no 7º período
+- 🎓 Cursando Engenharia de Computação, atualmente no 8º período
 - 👨‍💻 Desenvolvedor FullStack em aprendizado constante!
 - 🚀 Buscando sempre aprimorar meu conhecimento.
 - 📱 Aprendendo sobre desenvolvimento Web.
