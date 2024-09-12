@@ -1,16 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <samp>
-          <a href="https://nuxt.com">Nuxt</a> Specialist.<br/>
-          Founder of <a href="https://ventureth.com.br">Venture Tech</a>.<br/>
-          Front-end Engineer at <a href="https://searchandstay.com">Search and Stay</a>.<br/><br/>
-<!--           <a href="https://ventureth.com.br">Venture Tech</a> . -->
-          <a href="https://www.instagram.com/victorh5_/">Instagram</a> .
-          <a href="https://linkedin.com/in/victorh5/">LinkedIn</a>
-        </samp>
-      </p>
-    </td>
-  </tr>
-</table>
+### Hi everyone 👋
+
+My name is Victor Hugo, I'm a [Nuxt](https://nuxt.com) Specialist <br>
+
+Founder of [Venture Tech](https://ventureth.com.br) and Frontend Engineer at [Search and Stay](https://searchandstay.com)
+
+<br>
+
+[Instagram](https://www.instagram.com/victorh5_/) . [Linkedin](https://www.linkedin.com/in/victorh5/)
